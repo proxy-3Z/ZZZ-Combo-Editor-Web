@@ -8,7 +8,7 @@ GitHub Pages:
 
 https://proxy-3Z.github.io/ZZZ-Combo-Editor-Web/
 
-## Features
+## 主な機能
 
 - 3人のエージェントによるタイムライン形式のコンボ作成
 - スキルのドラッグ＆ドロップ配置
@@ -19,19 +19,19 @@ https://proxy-3Z.github.io/ZZZ-Combo-Editor-Web/
 - Undo / Redo
 - TimelineのZoom / Pan
 
-## Data Source
+## 参照元
 
 スキル倍率などのゲームデータの確認・更新にHoYoWikiの公開情報を参照しています。
 
 データは開発時に取得・整形し、静的データとしてアプリケーションに組み込んでいます。本ツール利用時に、ユーザーのブラウザからHoYoWikiへ直接アクセスする仕組みではありません。
 
-## Technical Information
+## 開発・設計
 
 このサイトはReact、TypeScript、Viteを使用した静的Webアプリケーションで、主要な機能はブラウザ上で動作します。
 
 開発用リポジトリにはデータ生成・更新用ツール等が含まれるため、現在ソースコード全体は公開していません。
 
-## Disclaimer
+## 免責事項
 
 - ZZZ Combo Editorは個人制作の非公式ファンメイドツールであり、非営利目的で公開しています。
 - 株式会社COGNOSPHERE、HoYoverse、および『ゼンレスゾーンゼロ』の開発・運営各社とは関係ありません。
