@@ -1,4 +1,4 @@
-import{t as e}from"./index-_Vhy41xT.js";var t={agents:[{agentId:`1186`,agentName:`ロクシー・イフリータ・プライス`,avatarId:1621,descriptions:[{key:`Pryce_MathSkill_Desc`,semanticMapping:`unresolved`,source:`TextMap/TextMap_JAOverwriteTemplateTb.json`,text:`チームに<color=#FFFFFF>[強攻]</color>、<color=#FFFFFF>[命破]</color>、または<color=#FFFFFF>[鋭御]</color>のメンバーがいる時に発動：
+import{t as e}from"./index-DE5htVzc.js";var t={agents:[{agentId:`1186`,agentName:`ロクシー・イフリータ・プライス`,avatarId:1621,descriptions:[{key:`Pryce_MathSkill_Desc`,semanticMapping:`unresolved`,source:`TextMap/TextMap_JAOverwriteTemplateTb.json`,text:`チームに<color=#FFFFFF>[強攻]</color>、<color=#FFFFFF>[命破]</color>、または<color=#FFFFFF>[鋭御]</color>のメンバーがいる時に発動：
 ロクシーの与ダメージ+8%。この効果はエージェントレベルに応じてアップし、1レベルにつき+1.2%、最大+80%。
 チーム内のメンバーの攻撃が敵に命中した時、ターゲットのブレイク弱体倍率+30%。敵がブレイク状態に入った時、ブレイク継続時間+2秒。ブレイク継続時間延長効果は同種の効果と重ね掛け不可。この効果はブレイク終了時に解除される。
 チーム内のメンバーによる<color=#FFFFFF>「風化」</color>状態にある敵は、受ける<color=#A6C5FD>風属性直接ダメージ</color>、および<color=#FFFFFF>「浸透」</color>対応属性の直接ダメージが追加で+8%。
